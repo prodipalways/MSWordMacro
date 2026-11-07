@@ -8,7 +8,7 @@ Follow the steps below to install and use the macro in Microsoft Word.
 
 ### Step 1: Download the Macro File
 
-1. Visit the [MSWordMacro GitHub Repository](https://github.com/prodipalways/MSWordMacro).
+1. Visit the [MSWordMacro GitHub Repository](https://github.com/prodipalways/MSWordMacro/blob/main/MSWordMacro.bas).
 2. Open the `MSWordMacro.bas` file.
 3. Click the **Download raw file** button to download the macro file to your computer.
 
@@ -52,5 +52,5 @@ The macro will execute in Microsoft Word.
 
 ## Repository
 
-GitHub: https://github.com/prodipalways/MSWordMacro
+GitHub: https://github.com/prodipalways/MSWordMacro/blob/main/MSWordMacro.bas
 
